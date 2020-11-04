@@ -1,2 +1,2 @@
-# lexus_description.iv
-lexus_description for pilot.auto
+# aidi_axio_description
+aidi_axio_description for pilot.auto
