@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.0.2)
-project(lexus_description)
+project(aidi_axio_description)
 
 add_compile_options(-std=c++14)
 
