@@ -9,7 +9,7 @@
     <visual>
       <origin xyz="${vehicle_info['wheel_base']/2.0} 0 0" rpy="${pi/2.0} 0 ${pi}"/>
       <geometry>
-        <mesh filename="package://lexus_description/mesh/lexus.dae" scale="1 1 1"/>
+        <mesh filename="package://aidi_axio_description/mesh/lexus.dae" scale="1 1 1"/>
       </geometry>
     </visual>
   </link>
